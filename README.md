@@ -16,7 +16,7 @@ Experienced VLSI Engineer (4+ years) in IP Design, Design Verification (DV), Pos
 
 ### Education:
 **Master of Science, Electrical and Computer Engineering (September 2022 – June 2024)** 
-Portland State University, Portland, OR, USA. GPA : 3.86
+Portland State University, Portland, OR, USA. GPA : 3.89
 **Courses:** Microprocessor System Design, Computer Architecture, ASIC Modelling & Synthesis, System Verilog, Pre-Si Validation, Digital IC Design, Formal Verification.
 
 **Diploma, RTL Design Verification (August 2018 – January 2019)**  
