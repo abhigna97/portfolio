@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Summary:
-Experienced VLSI Engineer (4+ years) in IP Design, Design Verification (DV), Post Silicon Validation, and Design for Testability (DFT). with a Master of Science Degree in Electrical And Computer Engineering from Portland State University. Proficient in  hardware description languages like Verilog, System Verilog, VHDL and UVM Methodology, experience with programming languages including Python, C++, PERL and Makefiles with expertise in RTL, testbench and Testcase Coding and Debugging. Strongly skilled in project development, leadership, mentorship, and collaboration.
+Experienced VLSI Engineer (4+ years) in IP Design, Design Verification (DV), Post Silicon Validation, and Design for Testability (DFT) with a Master of Science Degree in Electrical And Computer Engineering from Portland State University. Proficient in  hardware description languages like Verilog, System Verilog, VHDL and UVM Methodology, experience with programming languages including Python, C++, PERL and Makefiles with expertise in RTL, testbench and Testcase Coding and Debugging. Strongly skilled in project development, leadership, mentorship, and collaboration.
 
 ---
 
@@ -17,6 +17,7 @@ Experienced VLSI Engineer (4+ years) in IP Design, Design Verification (DV), Pos
 ### Education:
 **Master of Science, Electrical and Computer Engineering (September 2022 – June 2024)** 
 Portland State University, Portland, OR, USA. GPA : 3.89
+
 **Courses:** Microprocessor System Design, Computer Architecture, ASIC Modelling & Synthesis, System Verilog, Pre-Si Validation, Digital IC Design, Formal Verification.
 
 **Diploma, RTL Design Verification (August 2018 – January 2019)**  
