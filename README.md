@@ -1,15 +1,22 @@
 # Portfolio
 
 ### Summary:
-SoC Logic Design Engineer at Intel Corporation. Experienced VLSI Engineer (4+ years) in IP Design, Design Verification (DV), Post Silicon Validation, and Design for Testability (DFT) with a Master of Science Degree in Electrical And Computer Engineering from Portland State University. Proficient in  hardware description languages like Verilog, System Verilog, VHDL and UVM Methodology, experience with programming languages including Python, C++, PERL and Makefiles with expertise in RTL, testbench and Testcase Coding and Debugging. Strongly skilled in project development, leadership, mentorship, and collaboration.
+
+SoC Logic Design Engineer at Intel Corporation. Experienced VLSI Engineer (4+ years) in IP Design, Design Verification (DV), Post Silicon Validation, and Design for Testability (DFT).
+
+Master of Science Degree in Electrical And Computer Engineering from Portland State University with 3.89/4 GPA. 
+
+Proficient in  hardware description languages like Verilog, System Verilog, VHDL and UVM Methodology, experience with programming languages including Python, C++, PERL and Makefiles with expertise in RTL, testbench and Testcase Coding and Debugging. 
+
+Strongly skilled in project development, leadership, mentorship, and collaboration.
 
 ---
 
 ### Technical Skills:
 - **HDL:** VHDL, Verilog, System Verilog, UVM(Methodology)
 - **PROGRAMMING LANGUAGES:** C, C++, Java, Python, PERL, TCL scripting, Linux Commands, Makefiles.
-- **TOOLS:** Quartus Prime, Questa Sim, Synopsys DC, VCS, Spyglass, Xilinx ISE, Vivado, Cadence Virtuoso, MATLAB, Tessent.
-- **PROTOCOLS:** Advanced Microcontroller Bus Architecture - APB, AHB, AXI, and MSI, MESI(F), MOESIF, Ethernet, 5G NR, PCIe.
+- **TOOLS:** Quartus Prime, Questa Sim, Synopsys DC, FC, VCS, Verdi, Spyglass, Xilinx ISE, Vivado, Cadence Virtuoso, MATLAB, Tessent.
+- **PROTOCOLS:** Advanced Microcontroller Bus Architecture - APB, AHB, AXI, CHI, and MSI, MESI(F), MOESIF, Ethernet, 5G NR, PCIe.
 - **CONCEPTS:** RTL Design & Debug, Test Bench Coding, Microarchitecture, Testcase Writing, Functional/Code Coverage, Assertion Based Verification, Constrained Random Coverage Driven Verification (CR-CDV), STA, DFT, MBIST, FBIST, ATPG, Cell Aware ATPG, ASIC/FPGA Design, Memory, DDR, Cache Coherence, MIPS, RISC-V ISA, CMOS Design, Formal Verification, Emulation, Gate Level Simulation (GLS).
 
 ---
