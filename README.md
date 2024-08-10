@@ -12,6 +12,8 @@ Strongly skilled in project development, leadership, mentorship, and collaborati
 
 Interests: Photography, Hiking, Movies, Poetry.
 
+Email: abhigna@pdx.edu
+
 [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-6a055a132/)
 
 ---
