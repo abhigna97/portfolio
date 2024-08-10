@@ -100,4 +100,4 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 -  The survey delves into three research papers focusing on thread optimization techniques, performance studies, and dynamic optimization designs for thread pool systems.
 
 ---
-Feel free to reach out to discuss collaboration opportunities or for further details on any projects or experiences. Looking forward to connecting! [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-6a055a132/)
+Feel free to reach out to discuss collaboration opportunities or for further details on any projects or experiences. Here's my [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-6a055a132/)
