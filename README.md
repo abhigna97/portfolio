@@ -14,9 +14,9 @@ Interests: Photography, Hiking, Movies, Poetry.
 
 Email: abhigna@pdx.edu
 
-[GitHub](https://github.com/abhigna97)
+Previous Work: [GitHub](https://github.com/abhigna97)
 
-[LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-6a055a132/)
+Professional Network: [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-6a055a132/)
 
 ---
 
@@ -108,4 +108,8 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 -  The survey delves into three research papers focusing on thread optimization techniques, performance studies, and dynamic optimization designs for thread pool systems.
 
 ---
-Feel free to reach out to discuss collaboration opportunities or for further details on any projects or experiences. Here's my [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-6a055a132/)
+Feel free to reach out to discuss collaboration opportunities or for further details on any projects or experiences.
+Take a look at my work on [GitHub](https://github.com/abhigna97)
+Here's my [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-6a055a132/)
+Email: abhigna@pdx.edu
+
