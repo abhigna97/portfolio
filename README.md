@@ -10,6 +10,10 @@ Proficient in  hardware description languages like Verilog, System Verilog, VHDL
 
 Strongly skilled in project development, leadership, mentorship, and collaboration.
 
+Interests: Photography, Hiking, Movies, Poetry.
+
+[LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-6a055a132/)
+
 ---
 
 ### Technical Skills:
