@@ -14,6 +14,8 @@ Interests: Photography, Hiking, Movies, Poetry.
 
 Email: abhigna@pdx.edu
 
+[GitHub](https://github.com/abhigna97)
+
 [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-6a055a132/)
 
 ---
