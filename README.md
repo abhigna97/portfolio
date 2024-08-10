@@ -12,7 +12,7 @@ Strongly skilled in project development, leadership, mentorship, and collaborati
 
 Interests: Photography, Hiking, Movies, Poetry.
 
-Email: abhigna@pdx.edu
+Email: [abhigna@pdx.edu](mailto:abhigna@pdx.edu)
 
 Previous Work: [GitHub](https://github.com/abhigna97)
 
@@ -111,5 +111,5 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 Feel free to reach out to discuss collaboration opportunities or for further details on any projects or experiences.
 Take a look at my work on [GitHub](https://github.com/abhigna97)
 Here's my [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-6a055a132/)
-Email: abhigna@pdx.edu
+Email: [abhigna@pdx.edu](mailto:abhigna@pdx.edu)
 
