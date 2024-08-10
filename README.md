@@ -37,21 +37,21 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 
 ### Experience:
 
-#### SoC Logic Design Engineer, Foundry Services, Intel Corporation, Folsom, CA. (July 2024 – Present)
+#### [SoC Logic Design Engineer, Foundry Services, Intel Corporation, Folsom, CA. (July 2024 – Present)]
 - RTL Design for Debug Subsystem IP for Server Class SoC (July 2024 – Present)
     - Written RTL Design for Debug Security Shim to translate the security signals between sourced IPs and Intel IP.
     - Resolved debug for JIRA Tickets from the Verification team.
     - Microarchitecture diagrams design using drawio tool.
     - Functional Simulations using Synopsys VCS, and Synthesis using Fusion Compiler.
 
-#### Design For Test Engineer Graduate Intern, Intel Corporation, Austin, TX. (July 2023 – June 2024)
+#### [Design For Test Engineer Graduate Intern, Intel Corporation, Austin, TX. (July 2023 – June 2024)]
 - Cell Aware ATPG, MBIST Validation and Foveros BIST (July 2023 – January 2024)
     - Handled Scan Insertion, MBIST and CA ATPG Test Runs and worked on FBIST 5.0 for 2.5D/3D Interconnect Testing.
     - Handled MINT (Intel's Wrapper around Tessent MBIST) for an MBIST Validation Project.
 - RTL Restructuring using Synopsys RTL A (January 2024 - June 2024)
     - Handled restructuring of RTL to enable the team with support for utilizing legacy design while migrating to new work flow.
 
-#### Design Verification Engineer, Bitsilica Private Limited (Intel contractor), India. (February 2020 – September 2022)
+#### [Design Verification Engineer, Bitsilica Private Limited (Intel contractor), India. (February 2020 – September 2022)]
 - Post Silicon Validation Regression Test Suite (June 2021- September 2022)
     - Handled Lab Setup Bring up for silicon from A0 testing to tape-out. Developed Python Based Regression Test Suite for Post Silicon Validation Team at Intel.    Worked on Python/TCL scripting.
 - Polar IP for 5G NR Design using System Verilog (March 2021 – January 2022)
@@ -59,11 +59,11 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 - Ethernet PCS and PMA Sublayers Design and Verification using System Verilog, UVM (November 2020 – March 2021)
     - Verified the Design with UVM Class Based Testbench with Constraint based Coverage Driven Test plan including assertions for the Physical Coding sublayer, a networking protocol sublayer IP in 1 Gigabit ethernet Standard with 8B/10B encoding scheme.
 
-#### SoC Design Verification Intern, Insemi Technology Services (AMD Contractor), Bengaluru, India. (November 2019 – January 2020)
+#### [SoC Design Verification Intern, Insemi Technology Services (AMD Contractor), Bengaluru, India. (November 2019 – January 2020)]
 - APB 2 AHB Bridge Design and Verification using System Verilog, UVM (November 2019 – January 2020)
     - The Design of AHB Slave which converts AHB Transactions to APB transactions using pipelined AHB slave interface for bursts.
 
-#### IP Design Verification Intern, Maven Silicon, Bengaluru, India. (March 2019 – July 2019)
+#### [IP Design Verification Intern, Maven Silicon, Bengaluru, India. (March 2019 – July 2019)]
 - AXI 4 Master Slave Design and Verification using System Verilog, UVM (March 2019 – July 2019)
     - The design of Interconnect for IP blocks, peripherals, and other components on SoC to facilitate High Speed Data Transfer.
 
