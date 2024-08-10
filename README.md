@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Summary:
-Experienced VLSI Engineer (4+ years) in IP Design, Design Verification (DV), Post Silicon Validation, and Design for Testability (DFT) with a Master of Science Degree in Electrical And Computer Engineering from Portland State University. Proficient in  hardware description languages like Verilog, System Verilog, VHDL and UVM Methodology, experience with programming languages including Python, C++, PERL and Makefiles with expertise in RTL, testbench and Testcase Coding and Debugging. Strongly skilled in project development, leadership, mentorship, and collaboration.
+SoC Logic Design Engineer at Intel Corporation. Experienced VLSI Engineer (4+ years) in IP Design, Design Verification (DV), Post Silicon Validation, and Design for Testability (DFT) with a Master of Science Degree in Electrical And Computer Engineering from Portland State University. Proficient in  hardware description languages like Verilog, System Verilog, VHDL and UVM Methodology, experience with programming languages including Python, C++, PERL and Makefiles with expertise in RTL, testbench and Testcase Coding and Debugging. Strongly skilled in project development, leadership, mentorship, and collaboration.
 
 ---
 
@@ -30,12 +30,19 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 
 ### Experience:
 
+#### SoC Logic Design Engineer, Foundry Services, Intel Corporation, Folsom, CA. (July 2024 – Present)
+- RTL Design for Debug Subsystem IP for Server Class SoC (July 2024 – Present)
+    - Written RTL Design for Debug Security Shim to translate the security signals between sourced IPs and Intel IP.
+    - Resolved debug for JIRA Tickets from the Verification team.
+    - Microarchitecture diagrams design using drawio tool.
+    - Functional Simulations using Synopsys VCS, and Synthesis using Fusion Compiler.
+
 #### Design For Test Engineer Graduate Intern, Intel Corporation, Austin, TX. (July 2023 – June 2024)
 - Cell Aware ATPG, MBIST Validation and Foveros BIST (July 2023 – January 2024)
     - Handled Scan Insertion, MBIST and CA ATPG Test Runs and worked on FBIST 5.0 for 2.5D/3D Interconnect Testing.
     - Handled MINT (Intel's Wrapper around Tessent MBIST) for an MBIST Validation Project.
 - RTL Restructuring using Synopsys RTL A (January 2024 - June 2024)
-    - Handled restructuring of RTL to enable the team with support for utilizing legacy design while migrating to new work flow
+    - Handled restructuring of RTL to enable the team with support for utilizing legacy design while migrating to new work flow.
 
 #### Design Verification Engineer, Bitsilica Private Limited (Intel contractor), India. (February 2020 – September 2022)
 - Post Silicon Validation Regression Test Suite (June 2021- September 2022)
