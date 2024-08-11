@@ -80,9 +80,10 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 - AXI 4 Master Slave Design and Verification using System Verilog, UVM (March 2019 – July 2019)
     - The design of Interconnect for IP blocks, peripherals, and other components on SoC to facilitate High Speed Data Transfer.
       
-<p align="center">
-  <img src="assets/AXI.jpg" alt="Communication Channels in Advanced eXtensible Interface">
-</p>
+<div class="images">
+   <img src="assets/AXI.jpg">
+   <p align="center">Communication Channels in Advanced eXtensible Interface</p>
+</div>
 
 ---
 
@@ -92,43 +93,48 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 - Design employs both Local and Global Branch Prediction History, a Choice Prediction scheme to choose from either of two.
 - Verified the Design Using Assertion Based, Exhaustive, Constrained Random Testing. Optimal Functional & Code coverage.
       
-<p align="center">
-  <img src="assets/Alpha21264.jpg" alt="Branch Prediction in Alpha 21264">
-</p>
+<div class="images">
+   <img src="assets/Alpha21264.jpg">
+   <p align="center">Branch Prediction in Alpha 21264</p>
+</div>
 
 
 #### [Last Level Cache Design and Verification in System Verilog](https://github.com/abhigna97/Last-Level-Cache-design-using-System-Verilog)
 - Design employs MESI Cache coherence protocol and Pseudo LRU Replacement Policy in a shared memory configuration.
 - Verified the Design with Extensive Testbench and Test plan involving corner cases for respective Cache policies for L1 and L2.
       
-<p align="center">
-  <img src="assets/MESI.PNG" alt="MESI Cache Coherence Protocol">
-</p>
+<div class="images">
+   <img src="assets/MESI.PNG">
+   <p align="center">MESI Cache Coherence Protocol</p>
+</div>
 
 
 #### [RISC-V RV32I RV32M ISA Simulator Design and Verification in C/C++](https://github.com/abhigna97/RISCV-RV32I-RV32M-ISA-Simulator-using-C-) 
 - The Simulator supports Arithmetic, Logical, Jump, Memory Instructions using the 6 instruction encoding formats available.
 - Verified the Design with directed test plan involving writing C & Assembly Language programs (RISCV GNU Cross Compiler).
       
-<p align="center">
-  <img src="assets/RISCVRV32I.png" alt="Implementation of RISC-V RV32I">
-</p>
+<div class="images">
+   <img src="assets/RISCVRV32I.png">
+   <p align="center">Implementation of RISC-V RV32I</p>
+</div>
 
 
 #### [Data Flow Preschedule Buffer for Out of Order Superscalar Processor in C/C++](https://github.com/abhigna97/Preschedule-Buffer-for-Out-of-order-Superscalar-processors) 
 - Developed a program to Reorder instructions before they enter issue buffer by eliminating data dependencies.
       
-<p align="center">
-  <img src="assets/PRESCHBUF.PNG" alt="Implementation Block Diagram for Preschedule Buffer">
-</p>
+<div class="images">
+   <img src="assets/PRESCHBUF.PNG">
+   <p align="center">Implementation Block Diagram for Preschedule Buffer</p>
+</div>
 
 
 #### [Verification of Circular buffer using SystemVerilog Class Based Testbench](https://github.com/abhigna97/Verification-of-Circular-buffer-using-SystemVerilog-Class-based-TestBench)
 - Developed a testbench, testcases in SystemVerilog for verifying circular buffer RTL including pointers, full and empty signals.
       
-<p align="center">
-  <img src="assets/CIRCBUF.jpg" alt="Operation of Circular Buffer">
-</p>
+<div class="images">
+   <img src="assets/CIRCBUF.jpg">
+   <p align="center">Operation of Circular Buffer</p>
+</div>
 
 
 #### [Design and Formal Verification of a Sequence Detector FSM for Enhanced Security Applications](https://github.com/abhigna97/Design-and-Formal-Verification-of-a-Sequence-Detector-FSM-for-Enhanced-Security-Applications)
@@ -136,9 +142,10 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 - Performed formal verification using Synopsys VC Formal suite, ensuring correctness.
 - Crafted noise mitigation strategy, ensuring system stability and accuracy.
       
-<p align="center">
-  <img src="assets/SEQDET.jpg" alt="Sequence Detector FSM">
-</p>
+<div class="images">
+   <img src="assets/SEQDET.jpg">
+   <p align="center">Sequence Detector FSM</p>
+</div>
 
 
 #### [A Survey on Dynamic Thread Pool Management Techniques](https://github.com/abhigna97/A-Survey-on-Dynamic-Thread-Pool-Management-Techniques)
@@ -146,9 +153,10 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 -  The paper provides insights into the principles and practical implications of DTPM techniques, identifying open research challenges and future exploration avenues.
 -  The survey delves into three research papers focusing on thread optimization techniques, performance studies, and dynamic optimization designs for thread pool systems.
       
-<p align="center">
-  <img src="assets/THREADPOOL.png" alt="Tasks and Thread Pool">
-</p>
+<div class="images">
+   <img src="assets/THREADPOOL.png">
+   <p align="center">Tasks and Thread Pool</p>
+</div>
 
 
 ---
