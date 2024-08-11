@@ -72,7 +72,7 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
     - The Design of AHB Slave which converts AHB Transactions to APB transactions using pipelined AHB slave interface for bursts.
 
 <p align="center">
-  <img src="assets/APB2AHB.png" alt="AHB To APB Bus Bridge">
+  <img src="assets/APB2AHB.png" title="AHB To APB Bus Bridge">
 </p>
 
 #### IP Design Verification Intern, Maven Silicon, Bengaluru, India. (March 2019 – July 2019)
