@@ -92,7 +92,7 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 - Verified the Design Using Assertion Based, Exhaustive, Constrained Random Testing. Optimal Functional & Code coverage.
       
 <p align="center">
-  <img src="assets/Alpha2126.jpg" alt="Alpha 21264 Branch Prediction">
+  <img src="assets/Alpha21264.jpg" alt="Alpha 21264 Branch Prediction">
 </p>
 
 
