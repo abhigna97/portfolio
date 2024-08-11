@@ -71,9 +71,17 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 - APB 2 AHB Bridge Design and Verification using System Verilog, UVM (November 2019 – January 2020)
     - The Design of AHB Slave which converts AHB Transactions to APB transactions using pipelined AHB slave interface for bursts.
 
+<p align="center">
+  <img src="assets/APB2AHB.png" alt="AHB To APB Bus Bridge">
+</p>
+
 #### IP Design Verification Intern, Maven Silicon, Bengaluru, India. (March 2019 – July 2019)
 - AXI 4 Master Slave Design and Verification using System Verilog, UVM (March 2019 – July 2019)
     - The design of Interconnect for IP blocks, peripherals, and other components on SoC to facilitate High Speed Data Transfer.
+      
+<p align="center">
+  <img src="assets/AXI.jpg" alt="Communication Channels in Advanced eXtensible Interface">
+</p>
 
 ---
 
@@ -82,30 +90,65 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 #### [Tournament Branch Predictor Design and Verification for Alpha 21264 Microprocessor in System Verilog](https://github.com/abhigna97/Alpha-21264-Microprocessor-Tournament-Branch-Predictor-using-System-Verilog) 
 - Design employs both Local and Global Branch Prediction History, a Choice Prediction scheme to choose from either of two.
 - Verified the Design Using Assertion Based, Exhaustive, Constrained Random Testing. Optimal Functional & Code coverage.
+      
+<p align="center">
+  <img src="assets/Alpha21264.jpg" alt="Alpha 21264 Branch Prediction">
+</p>
+
 
 #### [Last Level Cache Design and Verification in System Verilog](https://github.com/abhigna97/Last-Level-Cache-design-using-System-Verilog)
 - Design employs MESI Cache coherence protocol and Pseudo LRU Replacement Policy in a shared memory configuration.
 - Verified the Design with Extensive Testbench and Test plan involving corner cases for respective Cache policies for L1 and L2.
+      
+<p align="center">
+  <img src="assets/MESI.PNG" alt="MESI Cache Coherence Protocol">
+</p>
+
 
 #### [RISC-V RV32I RV32M ISA Simulator Design and Verification in C/C++](https://github.com/abhigna97/RISCV-RV32I-RV32M-ISA-Simulator-using-C-) 
 - The Simulator supports Arithmetic, Logical, Jump, Memory Instructions using the 6 instruction encoding formats available.
 - Verified the Design with directed test plan involving writing C & Assembly Language programs (RISCV GNU Cross Compiler).
+      
+<p align="center">
+  <img src="assets/RISCVRV32I.png" alt="Implementation of RISC-V RV32I">
+</p>
+
 
 #### [Data Flow Preschedule Buffer for Out of Order Superscalar Processor in C/C++](https://github.com/abhigna97/Preschedule-Buffer-for-Out-of-order-Superscalar-processors) 
 - Developed a program to Reorder instructions before they enter issue buffer by eliminating data dependencies.
-  
+      
+<p align="center">
+  <img src="assets/PRESCHBUF.PNG" alt="Implementation Block Diagram for Preschedule Buffer">
+</p>
+
+
 #### [Verification of Circular buffer using SystemVerilog Class Based Testbench](https://github.com/abhigna97/Verification-of-Circular-buffer-using-SystemVerilog-Class-based-TestBench)
 - Developed a testbench, testcases in SystemVerilog for verifying circular buffer RTL including pointers, full and empty signals.
+      
+<p align="center">
+  <img src="assets/CIRCBUF.jpg" alt="Operation of Circular Buffer">
+</p>
+
 
 #### [Design and Formal Verification of a Sequence Detector FSM for Enhanced Security Applications](https://github.com/abhigna97/Design-and-Formal-Verification-of-a-Sequence-Detector-FSM-for-Enhanced-Security-Applications)
 - Created secure sequence detector with deadlock/isolation states for robust security.
 - Performed formal verification using Synopsys VC Formal suite, ensuring correctness.
 - Crafted noise mitigation strategy, ensuring system stability and accuracy.
+      
+<p align="center">
+  <img src="assets/SEQDET.jpg" alt="Sequence Detector FSM">
+</p>
+
 
 #### [A Survey on Dynamic Thread Pool Management Techniques](https://github.com/abhigna97/A-Survey-on-Dynamic-Thread-Pool-Management-Techniques)
 - Dynamic Thread Pool Management (DTPM) techniques are essential for optimizing the performance and resource utilization of concurrent and parallel computing systems.
 -  The paper provides insights into the principles and practical implications of DTPM techniques, identifying open research challenges and future exploration avenues.
 -  The survey delves into three research papers focusing on thread optimization techniques, performance studies, and dynamic optimization designs for thread pool systems.
+      
+<p align="center">
+  <img src="assets/THREADPOOL.png" alt="Tasks and Thread Pool">
+</p>
+
 
 ---
 Feel free to reach out to discuss collaboration opportunities or for further details on any projects or experiences.
