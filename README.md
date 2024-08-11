@@ -73,7 +73,8 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 
 <p align="center">
   <img src="assets/APB2AHB.png" alt="AHB To APB Bus Bridge">
-    <figcaption>AHB To APB Bus Bridge</figcaption>
+    <p align="center">
+        <figcaption>AHB To APB Bus Bridge</figcaption>
 </p>
 
 #### IP Design Verification Intern, Maven Silicon, Bengaluru, India. (March 2019 – July 2019)
