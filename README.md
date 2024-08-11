@@ -71,12 +71,10 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 - APB 2 AHB Bridge Design and Verification using System Verilog, UVM (November 2019 – January 2020)
     - The Design of AHB Slave which converts AHB Transactions to APB transactions using pipelined AHB slave interface for bursts.
 
-<p align="center">
-  <img src="assets/APB2AHB.png" alt="AHB To APB Bus Bridge">
-</p>
-<p align="center">
-  <figcaption>AHB To APB Bus Bridge</figcaption>
-</p>
+<div class="images">
+   <img src="assets/APB2AHB.png">
+   <p>AHB To APB Bus Bridge</p>
+</div>
 
 #### IP Design Verification Intern, Maven Silicon, Bengaluru, India. (March 2019 – July 2019)
 - AXI 4 Master Slave Design and Verification using System Verilog, UVM (March 2019 – July 2019)
