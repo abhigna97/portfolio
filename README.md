@@ -91,7 +91,9 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 - Design employs both Local and Global Branch Prediction History, a Choice Prediction scheme to choose from either of two.
 - Verified the Design Using Assertion Based, Exhaustive, Constrained Random Testing. Optimal Functional & Code coverage.
       
-
+<p align="center">
+  <img src="assets/Alpha21264.jpg" alt="Branch Prediction in Alpha 21264">
+</p>
 
 
 #### [Last Level Cache Design and Verification in System Verilog](https://github.com/abhigna97/Last-Level-Cache-design-using-System-Verilog)
