@@ -162,6 +162,7 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 ---
 Feel free to reach out to discuss collaboration opportunities or for further details on any projects or experiences.
 Take a look at my work on [GitHub](https://github.com/abhigna97)
-Here's my [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-6a055a132/)
-Email: <a href="mailto:abhigna.rc@gmail.com">abhigna.rc@gmail.com</a>
+Here's my [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-6a055a132/) 
+and [my Email](mailto:abhigna.rc@gmail.com)
+#Email: <a href="mailto:abhigna.rc@gmail.com">abhigna.rc@gmail.com</a>
 
