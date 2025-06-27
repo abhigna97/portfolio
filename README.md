@@ -12,7 +12,7 @@ Strongly skilled in project development, leadership, mentorship, and collaborati
 
 Interests: Photography, Hiking, Movies, Poetry.
 
-Contact: [My Email](<a href="mailto:abhigna.rc@gmail.com">abhigna.rc@gmail.com</a>)
+Contact: [My Email](mailto:abhigna.rc@gmail.com)
 
 Previous Work: [GitHub](https://github.com/abhigna97)
 
