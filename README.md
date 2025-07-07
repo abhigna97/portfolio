@@ -23,7 +23,7 @@ Professional Network: [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-
 ### Technical Skills:
 - **HDL:** VHDL, Verilog, System Verilog, UVM(Methodology)
 - **PROGRAMMING LANGUAGES:** C, C++, Java, Python, PERL, TCL scripting, Linux Commands, Makefiles.
-- **TOOLS:** Quartus Prime, Questa Sim, Synopsys DC, FC, VCS, Verdi, Spyglass, Xilinx ISE, Vivado, Cadence Virtuoso, MATLAB, Tessent, Arteris FlexNoC, De Facto.
+- **TOOLS:** Quartus Prime, Questa Sim, Synopsys DC, FC, VCS, Verdi, Spyglass, Xilinx ISE, Vivado, Cadence Virtuoso, MATLAB, Tessent, Arteris FlexNoC, Defacto.
 - **PROTOCOLS:** Advanced Microcontroller Bus Architecture - APB, AHB, AXI, CHI, and MSI, MESI(F), MOESIF, Ethernet, 5G NR, PCIe.
 - **CONCEPTS:** RTL Design & Debug, Test Bench Coding, Microarchitecture, Testcase Writing, Functional/Code Coverage, Assertion Based Verification, Constrained Random Coverage Driven Verification (CR-CDV), STA, DFT, MBIST, FBIST, ATPG, Cell Aware ATPG, ASIC/FPGA Design, Memory, DDR, Cache Coherence, MIPS, RISC-V ISA, CMOS Design, Formal Verification, Emulation, Gate Level Simulation (GLS).
 
