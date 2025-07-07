@@ -4,7 +4,7 @@
 
 SoC Logic Design Engineer at Intel Corporation. Experienced VLSI Engineer (4+ years) in IP Design, Design Verification (DV), Post Silicon Validation, and Design for Testability (DFT).
 
-Master of Science Degree in Electrical And Computer Engineering from Portland State University with 3.89/4 GPA. 
+Master of Science Degree in Electrical And Computer Engineering from Portland State University with 3.89/4.0 GPA. 
 
 Proficient in  hardware description languages like Verilog, System Verilog, VHDL and UVM Methodology, experience with programming languages including Python, C++, PERL and Makefiles with expertise in RTL, testbench and Testcase Coding and Debugging. 
 
@@ -23,7 +23,7 @@ Professional Network: [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-
 ### Technical Skills:
 - **HDL:** VHDL, Verilog, System Verilog, UVM(Methodology)
 - **PROGRAMMING LANGUAGES:** C, C++, Java, Python, PERL, TCL scripting, Linux Commands, Makefiles.
-- **TOOLS:** Quartus Prime, Questa Sim, Synopsys DC, FC, VCS, Verdi, Spyglass, Xilinx ISE, Vivado, Cadence Virtuoso, MATLAB, Tessent.
+- **TOOLS:** Quartus Prime, Questa Sim, Synopsys DC, FC, VCS, Verdi, Spyglass, Xilinx ISE, Vivado, Cadence Virtuoso, MATLAB, Tessent, Arteris FlexNoC, De Facto.
 - **PROTOCOLS:** Advanced Microcontroller Bus Architecture - APB, AHB, AXI, CHI, and MSI, MESI(F), MOESIF, Ethernet, 5G NR, PCIe.
 - **CONCEPTS:** RTL Design & Debug, Test Bench Coding, Microarchitecture, Testcase Writing, Functional/Code Coverage, Assertion Based Verification, Constrained Random Coverage Driven Verification (CR-CDV), STA, DFT, MBIST, FBIST, ATPG, Cell Aware ATPG, ASIC/FPGA Design, Memory, DDR, Cache Coherence, MIPS, RISC-V ISA, CMOS Design, Formal Verification, Emulation, Gate Level Simulation (GLS).
 
@@ -31,7 +31,7 @@ Professional Network: [LinkedIn](https://www.linkedin.com/in/abhigna-bheemineni-
 
 ### Education:
 **Master of Science, Electrical and Computer Engineering (September 2022 – June 2024)** 
-Portland State University, Portland, OR, USA. GPA : 3.89
+Portland State University, Portland, OR, USA. GPA : 3.89/4.0
 
 **Courses:** Microprocessor System Design, Computer Architecture, ASIC Modelling & Synthesis, System Verilog, Pre-Si Validation, Digital IC Design, Formal Verification.
 
@@ -46,7 +46,10 @@ Vignan's Lara Institute of Technology & Science, Vadlamudi, India. GPA : 3.75
 ### Experience:
 
 #### SoC Logic Design Engineer, Foundry Services, Intel Corporation, Folsom, CA. (July 2024 – Present)
-- RTL Design for Debug Subsystem IP for Server Class SoC (July 2024 – Present)
+- RTL Design and Integration of NoC into a test Chip SoC (Mar 2025 – Present)
+    - Configured a 72 Port NoC with AXI, APB, AHB Interfaces using Arteris FlexNoC, generated RTL, Constraints.
+    - Integrated the NoC into SoC, with LPDDR, UCIe, HBM IPs.
+- RTL Design for Debug Subsystem IP for Server Class SoC (July 2024 – Feb 2025)
     - Written RTL Design for Debug Security Shim to translate the security signals between sourced IPs and Intel IP.
     - Resolved debug for JIRA Tickets from the Verification team.
     - Microarchitecture diagrams design using drawio tool.
